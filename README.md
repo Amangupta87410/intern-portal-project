@@ -31,7 +31,7 @@ First, set up and run the backend server.
 
 Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://amangupta87410.github.io/intern-portal-project/
 cd your-repo-name
 
 Navigate to the backend directory:
