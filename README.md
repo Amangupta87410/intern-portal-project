@@ -50,7 +50,7 @@ Run the server:
 
 python manage.py runserver
 
-The backend API will now be running at http://127.0.0.1:8000/api/. Keep this terminal window open.
+The backend API will now be running at https://intern-portal-project.onrender.com/api/. Keep this terminal window open.
 
 2. Frontend Setup (HTML)
 Make sure the backend server from the previous step is still running.
